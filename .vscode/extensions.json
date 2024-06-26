@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "hashicorp.hcl",
+        "hashicorp.terraform",
+        "streetsidesoftware.code-spell-checker",
+        "oderwat.indent-rainbow",
+        "ms-python.black-formatter",
+        "bierner.markdown-footnotes",
+        "yahyabatulu.vscode-markdown-alert",
+        "bierner.markdown-preview-github-styles",
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "donjayamanne.python-environment-manager",
+        "shardulm94.trailing-spaces"
+    ]
+}
