@@ -9,3 +9,9 @@ Scheduled and recurring traffic notifications for specific traffic routes
 ### Install `tfenv`
 
 <https://github.com/tfutils/tfenv>
+
+After Installing run the following to automatically install the version of terraform specified in `.terraform-version` file.
+
+```bash
+tfenv install
+```
